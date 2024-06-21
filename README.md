@@ -1,8 +1,5 @@
 #Oiiiiiiiiiiii
 
-<!--
-**Potatinho04/Potatinho04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Meu nome é Gigih Kauany
 
 Estou estudando na Alura
